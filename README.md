@@ -1,5 +1,7 @@
 # Bilibili Scraper
 
+![Bilibili Scraper](https://raw.githubusercontent.com/smoldesk/apify-scrapers/main/assets/bilibili/banner.webp)
+
 Scrape Bilibili (哔哩哔哩) videos, comments, danmaku (弹幕), creators and trending charts. No login, no cookies, no API key. Runs on [Apify](https://apify.com/smoldesk/bilibili-scraper).
 
 ## What you get
