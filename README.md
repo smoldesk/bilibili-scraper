@@ -106,4 +106,4 @@ Put the UID or profile URL in `users`, turn on `onlyNewVideos` and schedule the 
 
 ## More scrapers
 
-Bilibili is one of 17 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
+Bilibili is one of 18 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
