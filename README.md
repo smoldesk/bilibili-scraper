@@ -71,14 +71,15 @@ Export as JSON, CSV or Excel, or pipe it into Google Sheets, Make, Zapier or n8n
 
 ## Pricing
 
-Pay per result. No monthly fee.
+Pay per result. No monthly fee. Prices drop on paid Apify plans.
 
-| Result | Per 1,000 |
-|---|---|
-| Video | $2.50 |
-| Creator profile | $2 |
-| Comment or reply | $0.50 |
-| Danmaku | $0.10 |
+| Result (per 1,000) | Free | Starter | Scale | Business |
+|---|---|---|---|---|
+| Video | $2.50 | $2.50 | $2.20 | $1.90 |
+| Creator profile | $2.00 | $2.00 | $1.75 | $1.50 |
+| Comment or reply | $0.50 | $0.50 | $0.50 | $0.50 |
+| Danmaku | $0.10 | $0.10 | $0.10 | $0.10 |
+
 
 ## Limits
 
